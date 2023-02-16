@@ -1,6 +1,6 @@
 # Breast Cancer Analysis
 
-This is the data analysis and prediction of Breast Cancer using different attributes like Clump Thickness, Uniformity of Cell Size, Marginal Adhesion, Bare Nuclei, Mitoses, Single Epithelial Cell Size, Uniformity of Cell Shape, Bland Chromatin and Normal Nucleoli.
+This is the data analysis and prediction whether a person has Breast Cancer or not using different health attributes like Clump Thickness, Uniformity of Cell Size, Marginal Adhesion, Bare Nuclei, Mitoses, Single Epithelial Cell Size, Uniformity of Cell Shape, Bland Chromatin and Normal Nucleoli.
 
 ---
 
